@@ -2,7 +2,7 @@ import './App.css';
 
 // import DatingCards from './components/DatingCards';
 // import Header from './components/Header';
-import SwipeButtons from './components/SwipeButtons';
+import SwipeButtons from './SwipeButtons';
 
 function App() {
   return (
